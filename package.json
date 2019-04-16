@@ -12,7 +12,7 @@
   ],
   "homepage": "https://github.com/strothj/react-docgen-typescript-loader",
   "bugs": "https://github.com/strothj/react-docgen-typescript-loader/issues",
-  "repository": "https://github.com/strothj/react-docgen-typescript-loader.git",
+  "repository": "https://github.com/cashlink/react-docgen-typescript-loader.git",
   "author": "strothj (https://github.com/strothj)",
   "main": "dist/index.js",
   "license": "MIT",
