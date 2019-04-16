@@ -26,6 +26,7 @@
     "build"
   ],
   "scripts": {
+    "prepare": "npm run build",
     "start": "tsc -p ./tsconfig.build.json -w",
     "build": "tsc -p ./tsconfig.build.json",
     "clean": "rimraf dist",
